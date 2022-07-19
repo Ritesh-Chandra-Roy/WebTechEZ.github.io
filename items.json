@@ -1,0 +1,42 @@
+  {
+  "courses": [
+    {
+      "id": 1,
+      "name": "Front-End for Biginners",
+      "price": 14900,
+      "imgName": "Album 1.png"
+    },
+    {
+      "id": 2,
+      "name": "Back-end Intermediate",
+      "price": 54990,
+      "imgName": "Album 2.png"
+    },
+    {
+      "id": 3,
+      "name": "Full-Stack from Scratch",
+      "price": 69990,
+      "imgName": "Album 3.png"
+    },
+    {
+      "id": 4,
+      "name": "Web Development With Python",
+      "price": 19990,
+      "imgName": "Album 4.png"
+    }
+  ],
+  "merch": [
+    {
+      "id": 5,
+      "name": "T-Shirt",
+      "price": 29900,
+      "imgName": "Shirt.png"
+    },
+    {
+      "id": 6,
+      "name": "Coffee Cup",
+      "price": 46990,
+      "imgName": "Cofee.png"
+    }
+  ]
+}
